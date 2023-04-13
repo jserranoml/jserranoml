@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jserranoml
-- 👀 I’m interested in web development, mobile and IA.
-- 🌱 I’m currently learning Flutter and getting better in React
+- 👀 I’m interested in web development & Backend.
+- 🌱 I’m currently learning Java, Kotlin, Go and getting better in React
 - 💞️ I’m looking to collaborate on anything
 - 📫 Feel free to send me a message 
 Enterprise: jorge@mercadolibre.com 
